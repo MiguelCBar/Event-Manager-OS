@@ -15,4 +15,4 @@ Each part includes its own Makefile to build the project. The general instructio
 
 ## Credits
 
-This project was developed in collaboration with [Leonor Francisco]().
+This project was developed in collaboration with [Leonor Francisco](https://github.com/leonor-francisco).
