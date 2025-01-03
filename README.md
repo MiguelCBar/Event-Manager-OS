@@ -12,3 +12,7 @@ Each part includes its own Makefile to build the project. The general instructio
 1. Navigate to the desired directory
 2. Run `make` to compile the project
 3. Use the provided instructions in the specific README for testing and running the implementation
+
+## Credits
+
+This project was developed in collaboration with [Leonor Francisco]().
